@@ -1,0 +1,27 @@
+ 1000  pwd
+ 1001  ls
+ 1002  cd /opt
+ 1003  ls
+ 1004  cd /090523_morning/popkov_andrii
+ 1005  ls -l
+ 1006  cd /0905223_morning
+ 1007  cd /090523_morning
+ 1008  ls -l
+ 1009  cd /090523_morning/
+ 1010  cd /opt/090523_morning/
+ 1011  cd /opt/090523_morning/popkov_andrii
+ 1012  touch myfirstbashscript.sh
+ 1013  ls
+ 1014  chmod 744 myfirstbashscript.sh
+ 1015  ls -l
+ 1016  export USER = Andrii
+ 1017  export USER=Andrii
+ 1018  env
+ 1019  nano myfirstbashscript.sh
+ 1020  ./myfirstbashscript.sh
+ 1021  history > history_28_06_2023.txt
+ 1022  export_file history_28_06_2023.txt
+ 1023  ls -l
+ 1024  export_file history_28_06_2023.txt
+ 1025  history
+[ec2-user@ip-172-31-33-20 popkov_andrii]$

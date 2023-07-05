@@ -1,0 +1,11 @@
+   0 cd ..
+   1 ls
+   2 cd /tmp
+   3 vi file.txt
+   4 df -h | head -3 >> file.txt
+   5 cat file.txt
+   6 chmod g+w file.txt
+   7 chmod u-r file.txt
+   8 chmod o+x file.txt
+   9 ls -la
+  10 history > history_06_07_2023.txt
